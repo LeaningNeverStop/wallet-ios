@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://s.dbank.net/download/ios/dbank-58.png</string>
+					<string>https://dbank-s3.oss-cn-beijing.aliyuncs.com/download/ios/dbank-58.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://s.dbank.net/download/ios/dbank-180.png</string>
+					<string>https://dbank-s3.oss-cn-beijing.aliyuncs.com/download/ios/dbank-180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
