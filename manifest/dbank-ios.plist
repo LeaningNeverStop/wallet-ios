@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7j1xh9.com1.z0.glb.clouddn.com/f4df73d2182001b9266434b03065dc4f.ipa?attname=CSR201802280948HBXYWD-resigned.ipa</string>
+					<string>downloadURL</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://s.btn.kim/download/ios/ico-58.png</string>
+					<string>https://s.dbank.net/download/ios/dbank-58.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://s.btn.kim/download/ios/ico-144.png</string>
+					<string>https://s.dbank.net/download/ios/dbank-180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.btbase.wallet</string>
+				<string>com.bitfinance.thewallet</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>币new</string>
+				<string>Dbank</string>
 			</dict>
 		</dict>
 	</array>
