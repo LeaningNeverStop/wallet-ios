@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://7j1xh9.com1.z0.glb.clouddn.com/99df574c840e6bc2cfbd19a13866fc64.ipa?attname=CSR201806120309KSOMKP-resigned.ipa</string>
+					<string>http://7j1xh9.com1.z0.glb.clouddn.com/0cd2a2970a4345934f15d23bebcba19e.ipa?attname=CSR201807111226IJUQMK-resigned.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.bitfinance.thewallet</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>1.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
